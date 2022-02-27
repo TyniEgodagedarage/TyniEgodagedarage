@@ -1,11 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Tyni Egoda Gedarage</h1>
+
 <h3 align="center">Undergraduate of Uva Wellassa Universit ||Blogger ||FreeLanser</h3>
+
+
 
 
 - 🔭 I’m currently Studying at **Uva Wellassa University of Sri Lanka Faculty of Applied Sciences**
 
-- 🌱 I’m currently learning ** Industrial Information Technology**
+- 🌱 I’m currently learning **Industrial Information Technology Degree Program**
 
 - 👯 I would like to contribute on **Open Source projects**
 
