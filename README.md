@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tyni Egoda Gedarage</h1>
-<h3 align="center">Undergraduate of Uva Wellassa Universit||Blogger||Free Lanser</h3>
+<h3 align="center">Undergraduate of Uva Wellassa Universit ||Blogger ||FreeLanser</h3>
 
 
 - 🔭 I’m currently Studying at **Uva Wellassa University of Sri Lanka Faculty of Applied Sciences**
