@@ -16,6 +16,6 @@
 
 - 📝 I have my own blog area on medium [https://medium.com/@tyniegodagedarage](https://medium.com/@tyniegodagedarage)
 
-- 👧 I'm interested in **react, python,Machine Learning,Data Science**
+- 👧 I'm interested in **Python,Machine Learning,Data Science**
 
-- 📫 Best way to reach me **https://www.linkedin.com/in/tyni-egodagedarage-9a80641a8/**
+- 📫 The best way to reach me **https://www.linkedin.com/in/tyni-egodagedarage-9a80641a8/**
