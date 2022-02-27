@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**TyniEgodagedarage/TyniEgodagedarage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Tyni Egoda Gedarage</h1>
+<h3 align="center">Undergraduate of Uva Wellassa Universit||Blogger||Free Lanser</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently Studying at **Uva Wellassa University of Sri Lanka Faculty of Applied Sciences**
+
+- 🌱 I’m currently learning ** Industrial Information Technology**
+
+- 👯 I would like to contribute on **Open Source projects**
+
+- 👨‍💻 My projects are available on my Github Account[https://github.com/TyniEgodagedarage](https://github.com/TyniEgodagedarage)
+
+- 📝 I have my own blog area on medium [https://medium.com/@tyniegodagedarage](https://medium.com/@tyniegodagedarage)
+
+- 👧 I'm interested in **react, python,Machine Learning,Data Science**
+
+- 📫 Best way to reach me **https://www.linkedin.com/in/tyni-egodagedarage-9a80641a8/**
