@@ -4,7 +4,7 @@
 <h3 align="center">Undergraduate of Uva Wellassa Universit ||Blogger ||FreeLanser</h3>
 
 
-
+<br></br>
 
 - 🔭 I’m currently Studying at **Uva Wellassa University of Sri Lanka Faculty of Applied Sciences**
 
