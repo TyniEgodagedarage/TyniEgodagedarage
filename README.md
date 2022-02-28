@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tyni Egoda Gedarage</h1>
 
-<h3 align="center">Undergraduate of Uva Wellassa Universit ||Blogger ||FreeLanser</h3>
+<h3 align="center">Undergraduate of Uva Wellassa University ||Blogger ||FreeLanser</h3>
 
 
 <br></br>
