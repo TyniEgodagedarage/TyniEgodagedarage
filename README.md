@@ -19,4 +19,5 @@
 - 👧 I'm interested in **Python,Machine Learning,Data Science**
 
 - 📫 The best way to reach me **https://www.linkedin.com/in/tyni-egodagedarage-9a80641a8/**
+- Hacktoberfest 2022 
 - [![@tyni's Holopin board](https://holopin.me/tyni)](https://holopin.io/@tyni)
